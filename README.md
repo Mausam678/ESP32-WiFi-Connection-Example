@@ -1,6 +1,3 @@
-Sure! Here’s a detailed description for the `ESP32-WiFi-Connection-Example` repository, including a comprehensive explanation of the code:
-
----
 
 # ESP32 Wi-Fi Connection Example
 
@@ -105,4 +102,3 @@ For any questions or issues, please open an issue on GitHub or reach out through
 
 ---
 
-Feel free to adjust the details as needed to match your project specifics. This description provides a comprehensive overview of what your code does, how to use it, and how others can contribute or seek support.
