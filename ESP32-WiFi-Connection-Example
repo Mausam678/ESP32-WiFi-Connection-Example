@@ -1,3 +1,4 @@
+```cpp
 #include <WiFi.h>
 
 const char* ssid = "Your_SSID";
@@ -22,3 +23,4 @@ void loop() {
   // Empty loop
 }
 
+```
